@@ -1,0 +1,39 @@
+{
+    "model": "gateway",
+    "sid": "klijlkdfinds",
+    "pwd": "ijeslefsjkdedsfb",
+    "proto_version": "2.x",
+    "devices": {
+        "jkijklijklijijlk": {
+            "sid": "jkijklijklijijlk",
+            "model": "motion",
+            "data": [
+                {
+                    "motion": true,
+                    "update_time": 1987867432812
+                },
+                {
+                    "status": "motion",
+                    "update_time": 1528419256399
+                }
+            ]
+        }
+    },
+    "data": [
+        {
+            "proto_version": "2.x"
+        },
+        {
+            "ip": "127.0.1.1",
+            "update_time": 1528419000947
+        },
+        {
+            "rgb": 3036676095,
+            "update_time": 1528419219024
+        },
+        {
+            "illumination": 500,
+            "update_time": 1528419219024
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "aqara-gateway-faker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index",
+  "bin": {
+    "aqara-gateway-faker": "bin/aqara-gateway-faker"
+  },
+  "scripts": {
+  },
+  "keywords": [],
+  "author": {
+    "name": "Kerwin Bryant",
+    "email": "kerwin612@qq.com",
+    "url": "https://github.com/ileler"
+  },
+  "repository": {
+     "type": "git",
+     "url": "git://github.com/ileler/aqara-gateway-faker.git"
+   },
+  "license": "MIT",
+  "dependencies": {
+    "randomstring": "^1.1.5"
+  }
+}
