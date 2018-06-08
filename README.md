@@ -36,3 +36,34 @@ Usage: aqara-gateway-faker json-string / json-file
     > set xxxxxxx illumination=500 rgb=3036676095
     ...
 ```
+
+**json data sample:**
+```json
+{
+    "model": "gateway",
+    "sid": "klijlkdfinds",
+    "pwd": "ijeslefsjkdedsfb",
+    "proto_version": "2.x", //support 1.x / 2.x
+    "devices": {
+        "jkijklijklijijlk": {
+            "model": "motion",
+            "data": [
+                {
+                    "status": "motion",
+                    "update_time": 1528419256399
+                }
+            ]
+        }
+    },
+    "data": [
+        {
+            "rgb": 3036676095,
+            "update_time": 1528419219024
+        },
+        {
+            "illumination": 500,
+            "update_time": 1528419219024
+        }
+    ]
+}
+```
