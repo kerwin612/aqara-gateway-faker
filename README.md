@@ -1,3 +1,16 @@
+# aqara-gateway-faker  
+
+Library to help you access [Aqara LAN protocols](https://github.com/aqara/aiot-gateway-local-api)
+
+
+## Installation  
+
+To install `aqara-gateway-faker`, use [npm](http://github.com/npm/npm):
+```
+npm i -g aqara-gateway-faker
+```  
+
+## Usage  
 ```shell
 Usage: aqara-gateway-faker json-string / json-file
   COMMAND:
