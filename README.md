@@ -1,6 +1,6 @@
 # aqara-gateway-faker  
 
-Library to help you develop [Aqara LAN protocols](https://github.com/aqara/aiot-gateway-local-api) applications.
+Library to help you develop [Aqara LAN protocols](https://github.com/aqara/aiot-gateway-local-api) ([doc](http://docs.opencloud.aqara.cn/development/gateway-LAN-communication/)) applications.
 
 
 ## Installation  
